@@ -1,0 +1,76 @@
+@media screen and (min-device-width: 1199px) and (max-device-width: 1400px) {
+    .navigation div#mySidenavs ul li a {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+
+    .sidenavs {
+        width: 0;
+        position: fixed;
+        top: 0;
+        left: 0;
+        display: inline-block;
+        overflow-x: hidden;
+        background: #000;
+        height: 100vh;
+        transition: all 0.3s;
+        z-index: 9999999;
+        padding-top: 45px;
+    }
+
+    .information-text {
+        margin-top: 30px;
+    }
+
+    a.active {
+        color: #989898 !important;
+        border-bottom: none;
+    }
+
+    .page-header {
+        opacity: 1;
+    }
+
+    .toggle-bar {
+        display: block !important;
+        color: #fff;
+    }
+
+    span.closebtn {
+        display: block !important;
+        text-align: right;
+        color: #fff;
+        position: absolute;
+        right: 19px;
+        top: 10px;
+        font-size: 20px;
+    }
+
+    .navigation div#mySidenavs ul {
+        display: block;
+    }
+
+    .navigation div#mySidenavs ul li {
+        margin-left: 0px;
+    }
+
+    .navigation div#mySidenavs ul li a {
+        padding: 7px 20px;
+        display: block;
+        color: #fff;
+    }
+
+    section.hero-sec {
+        height: 500px;
+    }
+    .form-group.input-name {
+        width: 40%;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .form-group.input-name {
+        width: 100%;
+    }
+}
