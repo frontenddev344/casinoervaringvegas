@@ -518,3 +518,14 @@ input[type="checkbox"] {
     font-size: 18px;
     font-weight: 700;
 }
+/*  */
+section.casinos-hotels.festivals{
+    background: url(../images/Concerts-Festivals.avif)no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ervaring-inner h3 {
+    font-size: 26px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}

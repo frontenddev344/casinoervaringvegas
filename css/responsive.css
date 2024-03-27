@@ -65,10 +65,27 @@
     section.hero-sec {
         height: 500px;
     }
+
     .form-group.input-name {
         width: 40%;
     }
 }
+
+@media only screen and (max-width: 991px) {
+    .downtown-wrapper.spaces .row {
+        flex-direction: column-reverse;
+    }
+
+    body#casino .ervaring img {
+        height: 300px;
+    }
+
+    .gateway {
+        padding: 10px;
+        margin-bottom: 30px;
+    }
+}
+
 @media only screen and (max-width: 768px) {
     .form-group.input-name {
         width: 100%;
