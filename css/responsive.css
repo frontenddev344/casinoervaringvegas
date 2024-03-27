@@ -111,4 +111,9 @@
         right: 10%;
 
     }
+
+    .form-group.input-checkbox span {
+        font-size: 14px;
+
+    }
 }
