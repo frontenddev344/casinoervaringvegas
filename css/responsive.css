@@ -102,6 +102,12 @@
     }
 }
 
+@media only screen and (max-width: 769px) {
+    .form-group.input-submit input {
+        margin-top: 15px;
+    }
+}
+
 @media only screen and (max-width: 768px) {
     .form-group.input-name {
         width: 100%;

@@ -218,11 +218,15 @@ section.downtown {
 /*  */
 footer.footer {
     background: linear-gradient(90deg, #1a1a1f 0, #292930 50%, #1a1a1f);
-    padding: 50px 0;
+    padding: 50px 0  0 0; 
     position: relative;
     margin-top: 100px;
+    
 }
-
+.compleet-c p {
+    color: #fff;
+    font-weight: 600;
+}
 svg.swoop-top-svg {
     position: absolute;
     left: 0;
@@ -683,4 +687,9 @@ input.input-search {
     color: #ffffff;
     border: none;
     background: transparent;
+}
+.compleet-c {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
