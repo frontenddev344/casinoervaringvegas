@@ -64,6 +64,11 @@ h6 {
     display: flex;
 }
 
+div#mySidenavs {
+    display: flex;
+    align-items: center;
+}
+
 .navigation div#mySidenavs ul li {
     margin-left: 20px;
 }
@@ -647,4 +652,35 @@ section.casinos-hotels.things {
     background: url(../images/Things.jpg)no-repeat;
     background-size: cover;
     background-position: center;
+}
+
+.search-box {
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    margin-left: 30px;
+}
+
+input.input-search {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+    outline: none;
+}
+
+.input-search::placeholder {
+    color: rgba(255, 255, 255, .5);
+    font-size: 16px;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
+
+.btn-search {
+    cursor: pointer;
+    position: absolute;
+    right: 0px;
+    color: #ffffff;
+    border: none;
+    background: transparent;
 }

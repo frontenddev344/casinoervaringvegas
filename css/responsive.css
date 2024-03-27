@@ -24,10 +24,7 @@
         margin-top: 30px;
     }
 
-    a.active {
-        color: #989898 !important;
-        border-bottom: none;
-    }
+
 
     .page-header {
         opacity: 1;
@@ -76,6 +73,17 @@
 
     .logo img {
         max-width: 280px;
+    }
+
+    div#mySidenavs {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .search-box {
+        margin-left: 20px;
+        margin-top: 10px;
     }
 }
 
