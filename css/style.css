@@ -595,3 +595,7 @@ section.adele {
     left: 50%;
     transform: translateX(-50%);
 }
+
+.adele-wrapper .row .col-lg-4.col-md-6 {
+    margin-bottom: 30px;
+}
