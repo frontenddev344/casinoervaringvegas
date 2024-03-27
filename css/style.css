@@ -276,17 +276,19 @@ svg.swoop-top-svg {
     display: none;
     cursor: pointer;
     -webkit-font-smoothing: antialiased;
+    z-index: 99;
 }
 
 .go-top:after {
     font-family: FontAwesome;
     content: "\f106";
-    background-color: #E5E8F0;
-    padding: 10px 15px;
-    color: #6a6e7c;
+    background-color: #d0a445;
+    padding: 3px 13px;
+    color: #000000;
     position: absolute;
     bottom: 10px;
     font-size: 28px;
+    z-index: 9999;
 }
 
 .go-top-text {
@@ -598,4 +600,8 @@ section.adele {
 
 .adele-wrapper .row .col-lg-4.col-md-6 {
     margin-bottom: 30px;
+}
+
+.adele-wrapper .row {
+    justify-content: center;
 }
