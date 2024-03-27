@@ -605,3 +605,37 @@ section.adele {
 .adele-wrapper .row {
     justify-content: center;
 }
+
+section.casinos-hotels.contact {
+    background: url(../images/hero.avif)no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+section.ervaring.dedicated .ervaring-inner {
+    text-align: left;
+}
+
+section.ervaring.dedicated .ervaring-inner p {
+    text-align: left;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 12px 0;
+}
+
+section.ervaring.dedicated .ervaring-inner h5 {
+    margin: 12px 0;
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+}
+
+section.ervaring.dedicated .ervaring-inner p span {
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+}
+
+section.ervaring.dedicated .ervaring-inner p a {
+    color: #d0a445;
+}
