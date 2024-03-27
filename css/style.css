@@ -639,3 +639,9 @@ section.ervaring.dedicated .ervaring-inner p span {
 section.ervaring.dedicated .ervaring-inner p a {
     color: #d0a445;
 }
+
+section.casinos-hotels.things{
+    background: url(../images/Things.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+}
