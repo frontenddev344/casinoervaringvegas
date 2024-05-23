@@ -768,3 +768,11 @@ section.casinos-hotels.vermaak {
 section.innerpage-img {
     margin-top: 50px;
 }
+
+p.disclaimer-p {
+    color: #fff;
+    font-size: 11px;
+    margin-top: 50px;
+    border-bottom: 1px solid;
+    padding-bottom: 32px;
+}
