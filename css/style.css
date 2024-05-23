@@ -218,15 +218,17 @@ section.downtown {
 /*  */
 footer.footer {
     background: linear-gradient(90deg, #1a1a1f 0, #292930 50%, #1a1a1f);
-    padding: 50px 0  0 0; 
+    padding: 50px 0 0 0;
     position: relative;
     margin-top: 100px;
-    
+
 }
+
 .compleet-c p {
     color: #fff;
     font-weight: 600;
 }
+
 svg.swoop-top-svg {
     position: absolute;
     left: 0;
@@ -688,11 +690,46 @@ input.input-search {
     border: none;
     background: transparent;
 }
+
 .compleet-c {
     text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
 .ervaring-inner p {
     margin-bottom: 12px;
+}
+
+.img-inner-page img {
+    border-radius: 12px;
+    height: 500px;
+    object-fit: cover;
+
+    margin: 0 auto;
+    transition: all 0.3s linear;
+}
+
+.img-inner-page img:hover {
+    transform: scale(1.2);
+}
+
+.casino-text {
+    position: absolute;
+    bottom: 32px;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.inner-p-img {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
+.casino-text span {
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
 }
