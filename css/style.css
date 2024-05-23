@@ -758,3 +758,8 @@ section.austrian {
     font-size: 40px;
     font-weight: 600;
 }
+section.casinos-hotels.vermaak{
+    background: url(../images/Vermaak.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+}
