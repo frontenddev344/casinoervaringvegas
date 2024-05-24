@@ -776,3 +776,7 @@ p.disclaimer-p {
     border-bottom: 1px solid;
     padding-bottom: 32px;
 }
+
+.disclaimer-part {
+    padding: 60px 0 0 0;
+}
