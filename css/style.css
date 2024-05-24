@@ -420,12 +420,14 @@ section.ervaring {
 
 .behorenp-btn a {
     background: #d7b054;
-    padding: 14px 28px;
+    padding: 9px 34px;
+    font-size: 14px;
     border-radius: 40px;
     color: #1c1c1b;
     display: inline-block;
     font-weight: 600;
     transition: all 0.3s ease;
+    white-space: nowrap;
 }
 
 .behorenp-btn a:hover {
