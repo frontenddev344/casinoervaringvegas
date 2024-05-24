@@ -1,15 +1,15 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 254 42" width="254" height="42">
-	<title>New Project</title>
+	<title>logosvg-svg</title>
 	<defs>
-		<image  width="429" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAAqBAMAAADyuhnQAAAAAXNSR0IB2cksfwAAABtQTFRF0MIk0MIk0MIk0MIk0MIk0MIk0MIk0MIk0MIkg5c6VgAAAAl0Uk5TAED/f78gYN+fLtkAtgAAAmhJREFUeJxjZAADIQEGGOC7wDAMACOEMlGECfx7e2CAnEJVAPPXGZgAm9WBAXIKVQHUX+a8MAHmnwcGyClUBTB/6cMEmG4cGCCnUBUM83Q4fP3F9oshbBVD4Prh5i91vwlKnhMV49qGl78uWTEfrTh4LI572vDy13knu1ZbxoNRRx4OL39dkmF5IPP/sVzwxOHlrzOhvzeErmYNWD3cyg2YwHDzl/nPC+Y/rzZ1fhte/jqrEDDV+sFza93hVh7aOrdWHDvIKTrMysPzpb+nFqx72Dh3mPnrot7fq3p/Lxr9vTa8/DVsy8Ph2+7tUfOcWHby2PDyF6TdezhxmLZ74w4Mo/KQg+MDSruXw2PDQDuLYgD0V/tqNo4voHYvAwO43et+m23oj90A/cVYuOmNClI5fyxn24sPA+kmagBQOky6v9/kjMmfCyY6S40ltlkd1Q2uHmhnUQyA/jJy2KD8/qyS39Tcf9NB7d5PDhviGgbaXZQCoL8Kp2m67YO2e/kEHlqZTtJ07B9od1EKgP4K2B754cn5ggtHs5kn1ix6aCWwndNhyBeIjAzBa9kjF5hcbP7Z0vyjuXUFsN3LzvlRf6hPFjGa+LE2AP2F3O5lFzQwOHFgAB1FBcDIWHj+GLq/+IrmvhniJT2jCF/gE06Iv5LXfoD4i8vwkc2CgXYZZYCx5d1Rg59gf7Eo/L8L8ZdAwce1twfaZZQBxgT2WWyQdBj075HcBkh8fap9sGCgXUYZYGRIn8kO8ZfFCSa+D2B/cX6ubRhoh1EIRv01tMCw9ZcRsGwPZfjNygDEIJJhNYi/2m7BQLuMMgAANhUMOpheG2kAAAAASUVORK5CYII="/>
+		<image width="429" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAa0AAAAqBAMAAADyuhnQAAAAAXNSR0IB2cksfwAAABtQTFRF0MIk0MIk0MIk0MIk0MIk0MIk0MIk0MIk0MIkg5c6VgAAAAl0Uk5TAED/f78gYN+fLtkAtgAAAmhJREFUeJxjZAADIQEGGOC7wDAMACOEMlGECfx7e2CAnEJVAPPXGZgAm9WBAXIKVQHUX+a8MAHmnwcGyClUBTB/6cMEmG4cGCCnUBUM83Q4fP3F9oshbBVD4Prh5i91vwlKnhMV49qGl78uWTEfrTh4LI572vDy13knu1ZbxoNRRx4OL39dkmF5IPP/sVzwxOHlrzOhvzeErmYNWD3cyg2YwHDzl/nPC+Y/rzZ1fhte/jqrEDDV+sFza93hVh7aOrdWHDvIKTrMysPzpb+nFqx72Dh3mPnrot7fq3p/Lxr9vTa8/DVsy8Ph2+7tUfOcWHby2PDyF6TdezhxmLZ74w4Mo/KQg+MDSruXw2PDQDuLYgD0V/tqNo4voHYvAwO43et+m23oj90A/cVYuOmNClI5fyxn24sPA+kmagBQOky6v9/kjMmfCyY6S40ltlkd1Q2uHmhnUQyA/jJy2KD8/qyS39Tcf9NB7d5PDhviGgbaXZQCoL8Kp2m67YO2e/kEHlqZTtJ07B9od1EKgP4K2B754cn5ggtHs5kn1ix6aCWwndNhyBeIjAzBa9kjF5hcbP7Z0vyjuXUFsN3LzvlRf6hPFjGa+LE2AP2F3O5lFzQwOHFgAB1FBcDIWHj+GLq/+IrmvhniJT2jCF/gE06Iv5LXfoD4i8vwkc2CgXYZZYCx5d1Rg59gf7Eo/L8L8ZdAwce1twfaZZQBxgT2WWyQdBj075HcBkh8fap9sGCgXUYZYGRIn8kO8ZfFCSa+D2B/cX6ubRhoh1EIRv01tMCw9ZcRsGwPZfjNygDEIJJhNYi/2m7BQLuMMgAANhUMOpheG2kAAAAASUVORK5CYII="/>
 	</defs>
 	<style>
 		tspan { white-space:pre } 
-		.t0 { font-size: 36px;fill: #ffffff;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.t0 { font-size: 30px;fill: #ffffff;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
 	</style>
-	<use id="Layer 1" href="#img1" x="0" y="0"/>
-	<text id="GOWINKES" style="transform: matrix(1,0,0,1,55,41)" >
-		<tspan x="0" y="0" class="t0">G</tspan><tspan  y="0" class="t0">O</tspan><tspan  y="0" class="t0">W</tspan><tspan  y="0" class="t0">I</tspan><tspan  y="0" class="t0">N</tspan><tspan  y="0" class="t0">K</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">S</tspan><tspan  y="0" class="t0">
+	<use id="img1" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	<text id="GOKWINKELS" style="transform: matrix(1,0,0,1,51,41)" >
+		<tspan x="0" y="0" class="t0">G</tspan><tspan  y="0" class="t0">O</tspan><tspan  y="0" class="t0">K</tspan><tspan  y="0" class="t0">W</tspan><tspan  y="0" class="t0">I</tspan><tspan  y="0" class="t0">N</tspan><tspan  y="0" class="t0">K</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">S
 </tspan>
 	</text>
 </svg>
