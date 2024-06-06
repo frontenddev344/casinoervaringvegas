@@ -131,6 +131,9 @@ div#mySidenavs {
 }
 
 /*  */
+section.hero-sec.home {
+    background-position: bottom;
+}
 section.hero-sec {
     background: url(../images/hero.jpg)no-repeat;
     background-size: cover;
