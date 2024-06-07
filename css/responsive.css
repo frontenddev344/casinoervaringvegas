@@ -128,3 +128,8 @@
 
     }
 }
+@media only screen and (max-width: 767px) {
+    .img-inner-page {
+        margin-top: 20px;
+    }
+}
