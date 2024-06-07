@@ -913,3 +913,7 @@ p.disclaimer-p {
     color: #fff;
     font-weight: 500;
 }
+
+span.morecontent span {
+    display: none;
+}
